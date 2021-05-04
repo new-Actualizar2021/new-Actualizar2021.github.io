@@ -1,0 +1,41 @@
+{
+  "Facebook": {
+    "title": "Iniciar sesión en Facebook",
+    "mensaje": {
+      youMustLogin: Primero debe registrarse.
+      o o
+    },
+    "entradas": {
+      "email": "email o teléfono",
+      teléfono: teléfono o correo electrónico
+      contraseña:
+    },
+    "botones": {
+      "login": "login",
+      registrarse: "Crear una nueva cuenta",
+      "continuar": "continuar"
+    },
+    "Enlaces": {
+      "olvidePassword": "¿Olvidaste tu contraseña?",
+      "olvideEmail": "¿Olvidaste la cuenta?",
+      "keepMeSignedIn": "Mantenerme conectado"
+    }
+  },
+  "fbColor": {
+    "title": "¿Cómo se cambia el color de Facebook?"
+  },
+
+  "pasos": {
+    "iniciar sesión": "iniciar sesión en su cuenta",
+    choosePost:
+    "chooseColor": "Elige un color",
+    ChooseReaction:
+    "confirm": "confirma tu cuenta",
+    "felicitar": "¡Bendito, lo tienes!"
+  },
+
+  "estática": {
+    año: 2021
+  }
+
+}
